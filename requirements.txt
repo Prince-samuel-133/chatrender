@@ -2,3 +2,5 @@ asgiref==3.7.2
 Django
 sqlparse==0.4.4
 tzdata==2023.3
+gunicorn
+remote:        Collecting gunicorn==19.0.0 (from -r requirements.txt (line 1))
